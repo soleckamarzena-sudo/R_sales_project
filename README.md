@@ -1,4 +1,4 @@
-# Projekt: Analiza i Prognozowanie Sprzedaży (Ekwador)
+# Projekt: Analiza i Prognozowanie Sprzedaży
 
 Pakiet R stworzony w ramach zaliczenia II semestru. System służy do kompleksowej analizy szeregów czasowych sprzedaży detalicznej, wykorzystując zaawansowane metody statystyczne i Machine Learning.
 
